@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /img/
+Disallow: /images/
+Disallow: /admin/
+
+Sitemap: https://blog.dlzhang.com/sitemap.xml
